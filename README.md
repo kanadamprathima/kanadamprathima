@@ -3,21 +3,22 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Prathima.
 </h1>
   
   
-
-
-### :woman_technologist: About Me :
+  
+  
+ ### :woman_technologist: About Me :
 - Certified Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India
 - Ambitious and passionate about frontend development
 - Holding an HSM visa, legally able to work in the EU
 - Proactive in seeking new opportunities and expressing interest in companies aligning with values and career goals
 - Enthusiastic, committed, and always willing to learn
 - Confident in making a meaningful impact in a company.
-  
+  <hr/>
  ### :hammer_and_wrench: Languages and Tools :
   - Frontend : React,Redux,JavaScript, HTML5, CSS3,Bootstrap,Axios.
   - Backend : Sequelize , Node.js, PostgresQL, ElephantSQL ,Express.
@@ -33,6 +34,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  <hr/>
   ℹ️ Reach me here : 
   
   <div id="badges">
