@@ -18,7 +18,14 @@
 - Proactive in seeking new opportunities and expressing interest in companies aligning with values and career goals
 - Enthusiastic, committed, and always willing to learn
 - Confident in making a meaningful impact in a company.
+-  ℹ️ Reach me here : 
+   <div id="badges">
+  <a href="https://www.linkedin.com/in/ksvprathima/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    </div>
   <hr/>
+  
  ### :hammer_and_wrench: Languages and Tools :
   - Frontend : React,Redux,JavaScript, HTML5, CSS3,Bootstrap,Axios.
   - Backend : Sequelize , Node.js, PostgresQL, ElephantSQL ,Express.
@@ -37,13 +44,7 @@
 </div>
   
   <hr/>
-  ℹ️ Reach me here : 
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ksvprathima/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    </div>
+ 
 <!---
 kanadamprathima/kanadamprathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
