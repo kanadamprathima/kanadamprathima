@@ -14,7 +14,7 @@
  ### :woman_technologist: About Me :
 - Certified Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 - Ambitious and passionate about frontend development
-- Holding an HSM visa, legally able to work in the EU
+- Holding an HSM visa, legally able to work in the EU( No Sponsorship required.)
 - Proactive in seeking new opportunities and expressing interest in companies aligning with values and career goals
 - Enthusiastic, committed, and always willing to learn
 - Confident in making a meaningful impact in a company.
