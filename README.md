@@ -27,7 +27,7 @@
   <hr/>
   
  ### :hammer_and_wrench: Languages and Tools :
-  - Frontend : React,Redux,JavaScript, HTML5, CSS3,Bootstrap,Axios.
+  - Frontend : React,Redux,JavaScript,TypeScript, HTML5, CSS3,Bootstrap,Axios.
   - Backend : Sequelize , Node.js, PostgresQL, ElephantSQL ,Express.
   - Version COntrol : GitHub.
   - Editor tools : VS-code.
@@ -41,6 +41,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40"alt="NODE logo">
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" title="ts" width="40" height="40"/>
 </div>
   
   <hr/>
