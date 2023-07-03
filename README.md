@@ -28,7 +28,7 @@
   
  ### :hammer_and_wrench: Languages and Tools :
   - Frontend : React,Redux,JavaScript,TypeScript, HTML5, CSS3,Bootstrap,Axios.
-  - Backend : Sequelize , Node.js, PostgresQL, ElephantSQL ,Express.
+  - Backend : Sequelize , Node.js, PostgresQL, ElephantSQL ,Express,Prisma.
   - Version COntrol : GitHub.
   - Editor tools : VS-code.
   <div>
